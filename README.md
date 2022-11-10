@@ -1,3 +1,6 @@
+<a href="https://davidferreirad1.github.io/Qr-code-component/" target="_blank">CLIQUE AQUI PARA ACESSAR!</a>
+
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
